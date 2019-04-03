@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+button {
+  margin: 16px 8px;
+}
+
+.left-side {
+  display: flex;
+}
+
+.mat-form-field {
+  width: 60rem;
+}

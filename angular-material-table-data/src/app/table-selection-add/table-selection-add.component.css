@@ -1,0 +1,19 @@
+.container {
+  display: flexbox;
+  margin: 0 auto;
+  align-content: center;
+  background-color: #eff0f2;
+  border: 1px solid black;
+}
+
+.example-form {
+  min-width: 100px;
+  max-width: 500px;
+  min-height: 200px;
+  max-height: 1000px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
